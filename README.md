@@ -1,3 +1,4 @@
-# Matching_Pennies_Game_Model
+# Advanced-Cognitive-Modelling-Portfolio
 
-The repository hosts the code for the first portfolio assignment of the Advanced Cognitive Modeling course, part of the Cognitive Science MSc program.
+
+The repository hosts the code for the portfolio of the Advanced Cognitive Modeling course, part of the Cognitive Science MSc program.
