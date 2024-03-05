@@ -4,10 +4,12 @@
 This repository is part of the Advanced Cognitive Modeling course offered by the Mac Cognitive Science program at Aarhus University. It encompasses a series of assignments aimed at understanding and modeling cognitive behaviors through the lens of the Matching Pennies Game.
 
 ## Project Structure
-The repository is organized into four main folders, each corresponding to a specific assignment within the course:
+The repository is to be organized into four main folders, each corresponding to a specific assignment within the course:
 
 - `Matching-Pennies-Game`: Introduction to the Matching Pennies Game and exploration of theoretical strategies.
 - `Matching-Pennies-Game-Stan`: Detailed cognitive modeling of Matching Pennies Game strategies using Stan, a platform for statistical modeling and high-performance statistical computation.
+- `...`
+- `...`
 
 ## Assignments Overview
 1. **Matching Pennies Game**: Investigates two potential strategies for playing the Matching Pennies Game, laying the groundwork for cognitive modeling.
