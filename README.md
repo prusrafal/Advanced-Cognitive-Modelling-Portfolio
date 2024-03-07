@@ -8,8 +8,8 @@ The repository is to be organized into four main folders, each corresponding to 
 
 - `Matching-Pennies-Game`: Introduction to the Matching Pennies Game and exploration of theoretical strategies.
 - `Matching-Pennies-Game-Stan`: Detailed cognitive modeling of Matching Pennies Game strategies using Stan, a platform for statistical modeling and high-performance statistical computation.
-- `...`:
-- `...`:
+- `...`
+- `...`
 
 ## Assignments Overview
 1. **Matching Pennies Game**: Investigates two potential strategies for playing the Matching Pennies Game, laying the groundwork for cognitive modeling.
