@@ -1,7 +1,7 @@
 # Advanced Cognitive Modeling Portfolio
 
 ## Course Overview
-This repository is part of the Advanced Cognitive Modeling course offered by the Mac Cognitive Science program at Aarhus University. It encompasses a series of assignments aimed at understanding and modeling cognitive behaviors through the lens of the Matching Pennies Game.
+This repository is part of the Advanced Cognitive Modeling course offered by the Mac Cognitive Science program at Aarhus University. It encompasses a series of group assignments aimed at understanding and modeling cognitive behaviors through the lens of the Matching Pennies Game.
 
 ## Project Structure
 The repository is to be organized into four main entities, each corresponding to a specific assignment within the course:
